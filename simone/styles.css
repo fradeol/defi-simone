@@ -1,0 +1,12 @@
+#app {
+  display: flex;
+  align-items: center;
+  aspect-ratio: 1/1;
+  height: 20rem;
+  margin-inline: auto;
+  margin: auto;
+  background-color: hotpink;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
